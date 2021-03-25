@@ -2,14 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: 'Oswald', sans-serif;
-}
-.background {
-	
-	background: url("bg.jpg") center center no-repeat;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	background: url("bg.jpg") center center / no-repeat fixed;
 }
 ::-webkit-scrollbar {
 	width: 0;
