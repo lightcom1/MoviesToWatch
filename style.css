@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	height: 100vh;
-	background: url(bg.jpg) center center / cover no-repeat fixed;
+	background: url(bg.jpg) center center / no-repeat fixed;
 	font-family: 'Oswald', sans-serif;
 }
 ::-webkit-scrollbar {
