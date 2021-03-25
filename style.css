@@ -2,6 +2,10 @@ body {
 	margin: 0;
 	padding: 0;
 	background: url("bg.jpg") center center / cover no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	font-family: 'Oswald', sans-serif;
 }
 ::-webkit-scrollbar {
