@@ -5,6 +5,7 @@ body {
 }
 .background {
 	position: fixed;
+	z-index: -1;
 	background: url("bg.jpg") center center no-repeat fixed;
 	height: 100%;
 	top: 0;
