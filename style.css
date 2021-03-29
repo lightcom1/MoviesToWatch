@@ -8,8 +8,12 @@ body {
 	z-index: -1;
 	background: url("bg.jpg") center center no-repeat;
 	height: 100%;
-	top: 0;
 	left: 0;
+	right: 0;
+	bottom: 0;
+	top: -70px;
+	padding-bottom: 70px;
+	transform: translateY(70px);
 	width: 100%;
 	-webkit-background-size: cover;
         -moz-background-size: cover;
